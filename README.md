@@ -1,8 +1,8 @@
 
 ### Hi! 👋
-I'm Bartek 😸
+I'm Bartek 
 </br>
-👩‍🎓 I'm learning to write nice websites 👩‍💻
+👩‍🎓 Front-End developer [Freelancer] [Junior] 👩‍💻
 </br>
 What am I interested in?
 <ul>
