@@ -2,19 +2,18 @@
 ### Hi! 👋
 I'm Bartek `#1589F0`
 </br>
-👩‍🎓 Front-End developer [Freelancer] [Junior] 👩‍💻
+👩‍🎓 Front-End developer <b>[Freelancer] [Junior]</b> 👩‍💻
 </br>
-## ![#1589F0] Info 
+## Info 
 <ul>
-<li> Portfolio: https://github.com/BartoszSl/Portfolio </li>
-<li> Private mail: github.bartek@gmail.com </li>
-<li> LinkedIn: https://pl.linkedin.com/in/bartosz-Ślusarczyk-202536273 </li>
+<li> Portfolio: <i>https://github.com/BartoszSl/Portfolio</i> </li>
+<li> Private mail: <i>github.bartek@gmail.com</i> </li>
+<li> LinkedIn: <i>https://pl.linkedin.com/in/bartosz-Ślusarczyk-202536273</i> </li>
 </ul>
 
-## $${\color{green}Want website ?}$$ 
+## Want website ?
 Write to: ... 
 
-$${\color{green}Green}$$
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
