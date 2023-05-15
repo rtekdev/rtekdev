@@ -1,16 +1,18 @@
 
 ### Hi! 👋
-I'm Bartek 
+I'm Bartek `#1589F0`
 </br>
 👩‍🎓 Front-End developer [Freelancer] [Junior] 👩‍💻
 </br>
-What am I interested in?
+## Info `#1589F0`
 <ul>
-<li> </li>
-<li> </li>
-<li> </li>
-<li> </li>
+<li> Portfolio: https://github.com/BartoszSl/Portfolio </li>
+<li> Private mail: github.bartek@gmail.com </li>
+<li> LinkedIn: pl.linkedin.com/in/bartosz-Ślusarczyk-202536273 </li>
 </ul>
+
+## Want website ? `#1589F0`
+Write to: ... 
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
