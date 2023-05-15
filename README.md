@@ -9,7 +9,7 @@ What am I interested in?
 <li> </li>
 <li> </li>
 <li> </li>
-<li> I love kociczka 🐈</li>
+<li> </li>
 </ul>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
