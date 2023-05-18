@@ -1,6 +1,6 @@
 
 ### Hi! 👋
-I'm Bartek `#1589F0`
+I'm Bartek 
 </br>
 👩‍🎓 Front-End developer and web designer <b>[Freelancer] [Junior]</b> 👩‍💻
 </br>
