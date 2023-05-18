@@ -2,7 +2,7 @@
 ### Hi! 👋
 I'm Bartek `#1589F0`
 </br>
-👩‍🎓 Front-End developer <b>[Freelancer] [Junior]</b> 👩‍💻
+👩‍🎓 Front-End developer and web designer <b>[Freelancer] [Junior]</b> 👩‍💻
 </br>
 ## Info 
 <ul>
