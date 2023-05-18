@@ -12,7 +12,10 @@ I'm Bartek `#1589F0`
 </ul>
 
 ## Want website ?
-Write to: ... 
+Write to: <b>[soon]</b>
+
+## Want Design ?
+Write to: <b>[soon]</b>
 
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
