@@ -1,7 +1,7 @@
 
 ### Hi! 👋
 I'm Bartek 
-</br>
+</br> 
 👩‍🎓 Front-End developer and web designer <b>[Freelancer] [Junior]</b> 👩‍💻
 </br>
 ## Info 
