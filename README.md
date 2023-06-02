@@ -19,6 +19,10 @@ Portfolio: <i>[soon]</i>
 Write to: <b>[soon]</b></br>
 Portfolio: <i>[soon]</i> 
 
+## GitHub Analytics
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaciejMi&show_icons=true&theme=dark)<br/>
+
 ## 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
