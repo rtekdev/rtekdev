@@ -21,7 +21,8 @@ Portfolio: <i>[soon]</i>
 
 ## GitHub Analytics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BartoszSl&show_icons=true&theme=dark)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BartoszSl&show_icons=true&theme=dark)</br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BartoszSl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
 
 ## 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
