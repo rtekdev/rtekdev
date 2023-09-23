@@ -11,13 +11,13 @@ I'm Bartek
 <li> LinkedIn: <i>https://pl.linkedin.com/in/bartosz-Ślusarczyk-202536273</i> </li>
 </ul>
 
-## Want website ?
+<!--## Want website ?
 Write to: <b>[soon]</b></br>
 Portfolio: <i>[soon]</i>
 
 ## Want Design ?
 Write to: <b>[soon]</b></br>
-Portfolio: <i>[soon]</i> 
+Portfolio: <i>[soon]</i> -->
 
 ## GitHub Analytics
 
