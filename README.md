@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
 
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BartoszSl/Portfolio](https://github.com/BartoszSl/Portfolio)
 
