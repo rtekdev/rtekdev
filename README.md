@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/BartoszSl/Portfolio](https://github.com/BartoszSl/Portfolio)
 
-- 📫 How to reach me **github.bartek@gmail.com**
+- 📫 How to reach me **github.bartek@gmail.com** or **bartosz.slusarczyk2@gmail.com**
 
 - ⚡ Fun fact **I am creative person with an eagerness to expand website knowledge**
 
