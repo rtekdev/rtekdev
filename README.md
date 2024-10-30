@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python, JavaScript and accounting**
 
-- 👨‍💻 All of my projects are available at [https://github.com/BartoszSl/Portfolio](https://github.com/BartoszSl/Portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/BartoszSl/Portfolio](https://github.com/rtekdev/Portfolio)
 
 - 📫 How to reach me **github.bartek@gmail.com** or **bartosz.slusarczyk2@gmail.com**
 
