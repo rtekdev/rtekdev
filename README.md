@@ -1,6 +1,6 @@
 [![MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)](https://github.com/BartoszSl)
 <h1 align="center">Hello, I'm Bartosz Ślusarczyk</h1>
-<h3 align="center">A passionate Machine Learning developer from Poland</h3>
+<h3 align="center">Back to Webdev</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
 
 
