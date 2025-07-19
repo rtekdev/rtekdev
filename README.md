@@ -1,25 +1,33 @@
-[![MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)](https://github.com/BartoszSl)
-<h1 align="center">Hello, I'm Bartosz Ślusarczyk</h1>
-<h3 align="center">Back to Webdev</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
+<div align="center">
+  <img src="https://imgs.search.brave.com/fL0ICMgP0cIC2n09T0ObiErLwnQh3KGU9tA65RXlpFw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG5p/Lmljb25zY291dC5j/b20vaWxsdXN0cmF0/aW9uL3ByZW1pdW0v/dGh1bWIvY29kZXIt/aWxsdXN0cmF0aW9u/LWRvd25sb2FkLWlu/LXN2Zy1wbmctZ2lm/LWZpbGUtZm9ybWF0/cy0tcHJvZ3JhbW1l/ci1kZXZlbG9wZXIt/ZGV2ZWxvcGluZy1w/cm9ncmFtbWluZy1i/dXNpbmV4LWNvbG9y/ZnVsLXBhY2stYnVz/aW5lc3MtaWxsdXN0/cmF0aW9ucy0yODk1/OTc3LnBuZw" alt="Something temporary" />
+</div>
+<h1 align="center">Hi, I'm Bartek 👋🏻</h1>
+<h3 align="center">Polyglot Programmer | Exploring Space Technology 🚀</h3>
+
+</br>
+
+- 🔭 I’m currently working on **Full-stack project**
+
+- 🌱 I’m currently learning **C++ and Rust**
+
+- 💬 Ask me about **Next.js, React, TS, UI/UX, C**
+
+- 📫 How to reach me **github.bartek@gmail.com**
+
+<br/>
+
+<h2>Language and Tools 🛠️</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=c,js,ts,python,sass,tailwind,docker,androidstudio,git,nestjs,nextjs,react,postgresql,mongodb,figma,git&theme=dark&perline=8)](https://skillicons.dev)
+
+<h2>Currently learning 📚</h2>
+
+[![Learning](https://skillicons.dev/icons?i=cpp,rust&theme=dark&perline=8)](https://skillicons.dev)
+
+<details>
+  <summary>🔽 Stats</summary>
+
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rtekdev&show_icons=true&locale=en&layout=compact" alt="rtekdev" /></p>
+</details>
 
 
-- 🌱 I’m currently learning **Python, JavaScript and accounting**
-
-- 👨‍💻 All of my projects are available at [https://github.com/rtekdev/Portfolio](https://github.com/rtekdev/Portfolio)
-
-- 📫 How to reach me **github.bartek@gmail.com** or **bartosz.slusarczyk2@gmail.com**
-
-- ⚡ Fun fact **I am creative person with an eagerness to expand website knowledge**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/silencebsl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="silencebsl" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/bartosz-%C5%9Blusarczyk-202536273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bartosz ślusarczyk" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rtekdev&show_icons=true&locale=en&layout=compact" alt="bartoszsl" />
