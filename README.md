@@ -2,15 +2,15 @@
   <img src="https://imgs.search.brave.com/fL0ICMgP0cIC2n09T0ObiErLwnQh3KGU9tA65RXlpFw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG5p/Lmljb25zY291dC5j/b20vaWxsdXN0cmF0/aW9uL3ByZW1pdW0v/dGh1bWIvY29kZXIt/aWxsdXN0cmF0aW9u/LWRvd25sb2FkLWlu/LXN2Zy1wbmctZ2lm/LWZpbGUtZm9ybWF0/cy0tcHJvZ3JhbW1l/ci1kZXZlbG9wZXIt/ZGV2ZWxvcGluZy1w/cm9ncmFtbWluZy1i/dXNpbmV4LWNvbG9y/ZnVsLXBhY2stYnVz/aW5lc3MtaWxsdXN0/cmF0aW9ucy0yODk1/OTc3LnBuZw" alt="Something temporary" />
 </div>
 <h1 align="center">Hi, I'm Bartek 👋🏻</h1>
-<h3 align="center">Polyglot Programmer | Exploring Space Technology 🚀</h3>
+<h3 align="center">Full-Stack Developer | Building Modern Web Applications</h3>
 
 </br>
 
-- 🔭 I’m currently working on **Full-stack project**
+- 🔭 I’m currently working on **Full-stack projects**
 
-- 🌱 I’m currently learning **C++ and Rust**
+- 🌱 I’m currently learning **Docker**
 
-- 💬 Ask me about **Next.js, React, TS, UI/UX, C**
+- 💬 Ask me about **Next.js, React, TS, UI/UX**
 
 - 📫 How to reach me **github.bartek@gmail.com**
 
